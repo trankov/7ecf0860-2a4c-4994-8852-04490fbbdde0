@@ -1,0 +1,10 @@
+Django
+django-ninja
+gunicorn
+psycopg2-binary
+pydantic
+pydantic_core
+pydantic-settings
+requests
+wheel
+whitenoise
